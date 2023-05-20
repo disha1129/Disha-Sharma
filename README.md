@@ -6,11 +6,13 @@
 **Skills:**
 
 
-![5-2-python-logo-png-image](https://github.com/disha1129/Disha-Sharma/assets/84631602/c92f7e8e-9c00-4825-8467-c1a9e757831e)
-![logo-mysql-mysql-and-moodle-elearningworld-5](https://github.com/disha1129/Disha-Sharma/assets/84631602/eecefccf-3bbf-4f7d-85ef-91814797981a)
-![Microsoft-Power-BI-Symbol](https://github.com/disha1129/Disha-Sharma/assets/84631602/bad95ae9-6c33-4081-b0d9-ec848202d4bc)
-![Microsoft_Office_Excel_(2019–present) svg](https://github.com/disha1129/Disha-Sharma/assets/84631602/3b8e64c6-c756-42fb-b37d-a7920bc7051d)
-![Machine-learning-logo-1](https://github.com/disha1129/Disha-Sharma/assets/84631602/e7ba9686-2ad3-4daa-90ae-ed1abf78fccb)
+![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/1eee0235-e78b-474b-8441-c6d76884839d)   
+![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/0c08c78f-ea51-40ad-b8db-06affac3b4ce)
+![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/b34d1a15-9ecf-4afa-8b30-837ae1c241da)
+![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/13e7b416-2bb9-45a2-b964-7887a9ac33fa)
+![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/6d97f552-2ba1-41dc-8ffb-42c993f8d7e5)
+
+
 
 **Python:** I am proficient in Python, utilizing it for data manipulation, analysis, and visualization. My projects demonstrate my ability to work with popular libraries such as Pandas, NumPy, and Matplotlib.
 
