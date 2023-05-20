@@ -1,7 +1,7 @@
 # Disha-Sharma
-Welcome to my GitHub profile! I am a passionate data analyst and scientist with a strong background in Python, MySQL, Power BI, Excel, and 
-Machine Learning. With hands-on experience in these technologies, I specialize in extracting valuable insights from complex datasets 
-to drive data-informed decision-making. Through my GitHub repositories, I showcase my projects and contributions in the field of data analysis and science.
+## Welcome to my GitHub profile! I am a passionate data analyst and scientist with a strong background in Python, MySQL, Power BI, Excel, and 
+## Machine Learning. With hands-on experience in these technologies, I specialize in extracting valuable insights from complex datasets 
+## to drive data-informed decision-making. Through my GitHub repositories, I showcase my projects and contributions in the field of data analysis and science.
 
 **Skills:**
 
@@ -26,6 +26,6 @@ to drive data-informed decision-making. Through my GitHub repositories, I showca
 **Machine Learning:** I have a strong foundation in machine learning algorithms and frameworks. My GitHub repositories feature projects where I have developed predictive models, performed feature engineering, 
 and implemented techniques such as regression, classification, and clustering.
 
-By exploring my GitHub repositories, you will gain insight into my skills and expertise as a data analyst and scientist.
-I am constantly working on new projects and expanding my knowledge to stay up-to-date with the latest trends in the field.
-Feel free to reach out to me for collaborations or further discussions on any of my projects.
+## By exploring my GitHub repositories, you will gain insight into my skills and expertise as a data analyst and scientist.
+## I am constantly working on new projects and expanding my knowledge to stay up-to-date with the latest trends in the field.
+## Feel free to reach out to me for collaborations or further discussions on any of my projects.
