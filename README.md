@@ -6,7 +6,7 @@
 **Skills:**
 
 
-![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/1eee0235-e78b-474b-8441-c6d76884839d) ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/0c08c78f-ea51-40ad-b8db-06affac3b4ce) ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/b34d1a15-9ecf-4afa-8b30-837ae1c241da)  ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/13e7b416-2bb9-45a2-b964-7887a9ac33fa)  ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/6d97f552-2ba1-41dc-8ffb-42c993f8d7e5)
+![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/1eee0235-e78b-474b-8441-c6d76884839d) ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/0c08c78f-ea51-40ad-b8db-06affac3b4ce)    ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/b34d1a15-9ecf-4afa-8b30-837ae1c241da)  ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/13e7b416-2bb9-45a2-b964-7887a9ac33fa)  ![image](https://github.com/disha1129/Disha-Sharma/assets/84631602/6d97f552-2ba1-41dc-8ffb-42c993f8d7e5)
   
 
 
